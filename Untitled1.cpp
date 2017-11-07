@@ -18,3 +18,10 @@ int main () {
 		cout<<abs (z)<<endl;
 		cout<<"Hasil Positif";
 	}
+	
+	
+	if (x > y)	{
+		z = y - x;	
+		cout<<abs (z)<<endl;
+		cout<<"Hasil Positif";
+	}
